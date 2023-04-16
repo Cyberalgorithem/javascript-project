@@ -1,0 +1,34 @@
+@font-face {
+    font-family: Pacifico ;
+    src: url(../font/Pacifico/Pacifico-Regular.ttf);
+}
+@font-face {
+    font-family: PTSerif ;
+    src: url(../font/PTSerif/PTSerif-BoldItalic.ttf);
+}
+@font-face {
+    font-family: Playfair ;
+    src: url(../font/Playfair_Display/Merriweather-Italic.ttf);
+}
+/*Slider Main 1*/
+/*// $(function (){*/
+/*//     var sliderSelector = "[data-role='slider']"*/
+/*//     var sliderBoxWidth = $(sliderSelector).width()*/
+/*//     $(sliderSelector + " img").css("left",sliderBoxWidth)*/
+/*//     $(sliderSelector + " img").eq(0).css("left","0px")*/
+/*//     $(sliderSelector).height($(sliderSelector + " img").height())*/
+/*//     sliderMove(0);*/
+/*//     function sliderMove(slideNo){*/
+/*//         $(sliderSelector + " img").eq(slideNo).animate({left:0}, 5000 , function (){*/
+/*//             $(sliderSelector + " img").eq(slideNo).animate({left:slideNo}, 5000 , function (){*/
+/*//                 $(sliderSelector + " img").eq(slideNo).animate({left:slideNo} , 5000 , function(){*/
+/*//                     $(this).css("left",sliderBoxWidth)*/
+/*//                 })*/
+/*//                 sliderMove(++slideNo >= $(sliderSelector + " img").length ? 0 : slideNo)*/
+/*//             })*/
+/*//         })*/
+/*//     }*/
+/*//     // function*/
+/*// })*/
+
+/*----*/
